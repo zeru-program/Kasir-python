@@ -4,4 +4,6 @@
 # How to use?
 - git clone https://github.com/zeru-program/Kasir-python
 - cd Kasir-python
-- py kasir.py or pip kasir.py
+```
+py kasir.py or pip kasir.py
+```
